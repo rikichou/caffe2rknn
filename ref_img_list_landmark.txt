@@ -1,0 +1,2 @@
+./quant_img/right.jpg
+./quant_img/11111.jpg
